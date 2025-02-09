@@ -50,53 +50,26 @@ No special installation is required. Just open the index.html file in a browser.
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+![6246c0c4-774b-4d5d-a0e0-e710394eec40](https://github.com/user-attachments/assets/8604140a-fb23-43b7-b9b5-44919befb26f)
+Main UI of the Excuse Generator
+![afe34dcb-f608-4532-afd7-40f88f94964b](https://github.com/user-attachments/assets/d2b12780-7a51-43e5-aabb-98f4c60045a2)
+Example of a generated excuse
+![e0acd86c-6dbc-4de2-98b0-4438ffc6984f](https://github.com/user-attachments/assets/ff75a82d-a895-4b77-89ed-56b03685acba)
+another example of generated excuse
 
 # Build Photos
-![Team](Add photo of your team here)
+html implementation
+![0d5b32be-8786-4ccc-9ba9-237cbc3687d8](https://github.com/user-attachments/assets/10ab5a41-e00f-408f-a9e2-542735b1e67b)
+css implementation
+![55e2d2ba-7da2-44c3-bcb2-3047b5049cca](https://github.com/user-attachments/assets/1f3a5d69-9748-41b8-8bba-4e0e12b03500)
+javascript implementation
+![56fb4a82-a759-4131-b8fe-298f56c5614b](https://github.com/user-attachments/assets/baaacf82-7015-4993-97fb-57a325c9c276)
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+![6246c0c4-774b-4d5d-a0e0-e710394eec40](https://github.com/user-attachments/assets/8604140a-fb23-43b7-b9b5-44919befb26f)
+Main UI of the Excuse Generator
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Ashly: Frontend UI design, API integration, styling
+- Farzana M: Logic implementation, debugging, testing
 
----
 Made with ❤️ at TinkerHub
