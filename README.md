@@ -1,47 +1,50 @@
-# [Project Name] 🎯
+#  Excuse Generator AI 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Byte Builders
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1:Ashly - College of Engineering Perumon
+- Member 2:Farzana M - College of Engineering Perumon
+
+
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+🔗 Excuse Generator AI
 
 ### Project Description
-[2-3 lines about what your project does]
+An AI-powered excuse generator that helps users come up with creative, fun, or serious excuses tailored to different situations. Just select a category, style, and recipient, and get a unique excuse instantly!
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Coming up with a good excuse is hard, whether it's for missing work, skipping class, or getting out of awkward situations. People often struggle to find the right words quickly.
+
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Our AI-powered excuse generator takes the stress out of making excuses by instantly providing a personalized excuse based on the user's input. Just click a button and get a perfectly crafted excuse in seconds!
+
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages Used: HTML, CSS, JavaScript
+- Frameworks Used: None
+- Libraries Used: Fetch API
+- Tools Used: Google Gemini API for AI-powered excuse generation
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-N/A This is a web-based project,no hardware involved
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+No special installation is required. Just open the index.html file in a browser.
 # Run
-[commands]
+ -Open the project in a web browser.
+ -Select a category, style, and recipient.
+-Click the "Generate Excuse" button to receive an AI-generated excuse.
 
 ### Project Documentation
 For Software:
