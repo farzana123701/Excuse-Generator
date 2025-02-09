@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excuse Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Excuse Generator</h1>
+        <label for="category">Choose a category:</label>
+        <select id="category">
+            <option value="random">Random</option> 
+            <option value="work">Work</option>
+            <option value="school">School</option>
+            <option value="health">Health</option>
+            
+            <option value="family">Family</option>
+            
+        </select>
+    
+
+    
+        <label for="styles">Choose excuse style:</label>
+        <select id="styles">
+           <option value="funny">Funny </option> 
+           <option value="serious">Serious</option>
+           <option value="ridiculous">Ridiculous</option>
+           
+        </select>
+        <label for="recipient">To whom?</label>
+        <select id="recipient">
+        <option value="boss">Boss</option>
+        <option value="teacher">Teacher</option>
+        <option value="parents">Parent</option>
+        <option value="friend">Friend</option>
+        <option value="familymember">Familymember</option>
+      </select>
+    
+    
+        
+      
+      <p id="excuse">Click the button to get an excuse!</p>
+      <button onclick="generateExcuse()">Generate Excuse</button>
+     </div>
+     <script src="javascript.js"></script>
+     </body>
+     </html> 
